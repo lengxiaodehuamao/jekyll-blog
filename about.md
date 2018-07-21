@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-80后土著码农。
+80尾土著码农。
 
